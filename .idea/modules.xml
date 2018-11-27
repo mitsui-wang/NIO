@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NIO.iml" filepath="$PROJECT_DIR$/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NioClient/NioClient.iml" filepath="$PROJECT_DIR$/NioClient/NioClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NioServer/NioServer.iml" filepath="$PROJECT_DIR$/NioServer/NioServer.iml" />
+    </modules>
+  </component>
+</project>
